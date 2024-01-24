@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012352881943",
+    "project_id": "sms-listener-f87bb",
+    "storage_bucket": "sms-listener-f87bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012352881943:android:38be48a596ccbce6609352",
+        "android_client_info": {
+          "package_name": "com.example.getsms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cBCMyzfaqSn5ujfFyu3CxQoyRTbpgRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
